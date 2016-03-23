@@ -26,6 +26,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/mugoweb/hideuntildate.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/mugoweb/mugocontentclassmanager.git"
         }
     ],
     "require": {
@@ -63,6 +67,7 @@
         "gggeek/ggxmlview" : "*",
         "myxt/ezchangeclass" : "*",
         "mugoweb/hideuntildate" : "*",
+        "mugoweb/mugocontentclassmanager" : "*",
 	
 	"opencontent/ocbootstrap-ls" : "1.0",
         "opencontent/occhangeobjectdate-ls" : "1.1",
@@ -82,7 +87,6 @@
 	"informaticatrentina/paradoxpdf" : "*",
 	"informaticatrentina/accolorpicker" : "*",
 	"informaticatrentina/batchtool" : "*",
-        "informaticatrentina/mugocontentclassmanager" : "*",
         "informaticatrentina/ezclasslist" : "*",
         "informaticatrentina/merge" : "*",
         "informaticatrentina/eztagfeed" : "*",
