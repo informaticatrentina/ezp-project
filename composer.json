@@ -92,7 +92,8 @@
         "informaticatrentina/eztagfeed" : "*",
         "informaticatrentina/ezpostgresqlcluster" : "*",
         "informaticatrentina/itobjectsync" : "*",
-        "informaticatrentina/pat_base" : "*"
+        "informaticatrentina/pat_base" : "*",
+        "informaticatrentina/itextrelations" : "*"
     },
     "require-dev": {
         "behat/behat": "3.0.*",
