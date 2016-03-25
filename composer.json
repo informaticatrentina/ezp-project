@@ -81,7 +81,7 @@
         "opencontent/ocopendata-ls" : "2.2",
         "opencontent/ocoperatorscollection-ls" : "1.0",
         "opencontent/ocrss-ls" : "1.0",
-        "opencontent/openpa-ls" : "2.3",
+        "opencontent/openpa-ls" : "2.5",
 
 	"informaticatrentina/itclassmanager" : "*",
 	"informaticatrentina/paradoxpdf" : "*",
