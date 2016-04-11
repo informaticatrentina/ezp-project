@@ -7,3 +7,5 @@ Scaricare ed installare eZ-Publish Community Project 2014-11 reperibile al segue
 Sostituire all'interno dell'installazione il file composer.json con il file presente in questo repository
 
 Lanciare il comando composer update
+
+Importare le classi contenute nel file doc/classi_sinet_template.ezpkg
