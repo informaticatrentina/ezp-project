@@ -50,5 +50,11 @@ Nel site.ini.append.php del proprio siteaccess aggiungere le seguenti righe per 
 
 Scaricare localmente il file doc/classi_sinet_template.ezpkg, eseguire l'importazione del file tramite Impostazioni - Pacchetti - Importa nuovo pacchetto
 
+Durante la fase di installazione saltare l'installazione di ogni classe di contenuto che l'importatore trova già presente e proseguire sulla successiva
+
+Finita l'importazione andare sulla URL del proprio sito agguingendo alla fine dopo index.php la seguente stringa /itclassmanager/classdiff
+
+Verificare quali classi di contenuto sono sincronizzate (verde) e quali non, per queste ultime provvede ad eseguire una sincronizzazione manuale rimuovendo gli attributi aggiuntivi
+
 
 
