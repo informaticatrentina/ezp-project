@@ -54,7 +54,7 @@ Durante la fase di installazione saltare l'installazione di ogni classe di conte
 
 Finita l'importazione andare sulla URL del proprio sito agguingendo alla fine dopo index.php la seguente stringa /itclassmanager/classdiff
 
-Verificare quali classi di contenuto sono sincronizzate (verde) e quali non, per queste ultime provvede ad eseguire una sincronizzazione manuale rimuovendo gli attributi aggiuntivi
+Verificare quali classi di contenuto sono sincronizzate (verde) e quali non, per queste ultime provvedere ad eseguire una sincronizzazione manuale rimuovendo gli attributi aggiuntivi e forzando la sincronizzazione se necessaria
 
 
 
