@@ -70,6 +70,7 @@
         "myxt/ezchangeclass" : "*",
         "mugoweb/hideuntildate" : "*",
         "mugoweb/mugocontentclassmanager" : "*",
+		"netgen/ngclasslist" : "1.0",
 
         "opencontent/ocbootstrap-ls" : "1.0",
         "opencontent/occhangeobjectdate-ls" : "1.1",
