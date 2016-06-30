@@ -58,6 +58,7 @@
         "symfony/expression-language": "~2.4",
         "sensio/framework-extra-bundle": "~3.0",
         "ezsystems/ezxmlinstaller-ls": "~1.2.1",
+        "ezsystems/ezfind-ls": ">=2014.11",
 
         "lolautruche/sqliimport" : "1.2.1",
         "gggeek/ggwebservices" : "0.14.0",
@@ -70,7 +71,7 @@
         "myxt/ezchangeclass" : "*",
         "mugoweb/hideuntildate" : "*",
         "mugoweb/mugocontentclassmanager" : "*",
-		"netgen/ngclasslist" : "1.0",
+	"netgen/ngclasslist" : "1.0",
 
         "opencontent/ocbootstrap-ls" : "1.0",
         "opencontent/occhangeobjectdate-ls" : "1.1",
